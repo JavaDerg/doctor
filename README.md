@@ -11,3 +11,6 @@ Thats all.
 - Signature change (you can change the signature of this software with a mouse click)
 
 ## Screenshots? Yes!
+![alt text](https://raw.githubusercontent.com/post-rex/doctor/master/1.png "Injection")
+
+![alt text](https://raw.githubusercontent.com/post-rex/doctor/master/2.png "Proof")
