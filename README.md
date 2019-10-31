@@ -14,3 +14,8 @@ Thats all.
 ![alt text](https://raw.githubusercontent.com/post-rex/doctor/master/1.png "Injection")
 
 ![alt text](https://raw.githubusercontent.com/post-rex/doctor/master/2.png "Proof")
+
+## Download
+You can download Doctor [here](https://github.com/post-rex/doctor/releases/tag/1.0.0.0)
+
+Sidenote: you should probably click Mutate after downloading the first time.
